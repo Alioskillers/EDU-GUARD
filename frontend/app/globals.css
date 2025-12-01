@@ -1,0 +1,52 @@
+@import 'tailwindcss';
+
+@layer base {
+  :root {
+    --background: #f5f6ff;
+    --foreground: #0f172a;
+  }
+
+  body {
+    @apply bg-[var(--background)] antialiased text-slate-900;
+    font-family: var(--font-body), system-ui, sans-serif;
+  }
+
+  /* Ensure headings are visible */
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-slate-900;
+  }
+
+  /* Ensure paragraphs are readable */
+  p {
+    @apply text-slate-700;
+  }
+}
+
+/* NFR-08: RTL Support for Arabic */
+[dir="rtl"] {
+  direction: rtl;
+}
+
+/* RTL spacing adjustments */
+[dir="rtl"] .space-x-6 > * + * {
+  margin-right: 1.5rem;
+  margin-left: 0;
+}
+
+[dir="rtl"] .gap-6 {
+  gap: 1.5rem;
+}
+
+/* RTL flex direction */
+[dir="rtl"] .flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+/* RTL text alignment */
+[dir="rtl"] .text-left {
+  text-align: right;
+}
+
+[dir="rtl"] .text-right {
+  text-align: left;
+}

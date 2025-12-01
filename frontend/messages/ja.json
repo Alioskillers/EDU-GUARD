@@ -1,0 +1,359 @@
+{
+  "common": {
+    "welcome": "ようこそ",
+    "signIn": "サインイン",
+    "signUp": "サインアップ",
+    "signOut": "サインアウト",
+    "dashboard": "ダッシュボード",
+    "games": "ゲーム",
+    "leaderboard": "リーダーボード",
+    "notifications": "通知",
+    "myAchievements": "私の実績",
+    "creativeSpace": "クリエイティブスペース",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "getStarted": "始める",
+    "explorePillars": "柱を探索",
+    "seeAll": "すべて表示",
+    "play": "プレイ",
+    "playNow": "今すぐプレイ",
+    "resume": "再開",
+    "viewDetails": "詳細を表示",
+    "markResolved": "理解済みとしてマーク",
+    "linkChild": "子供のアカウントをリンク",
+    "linking": "リンク中...",
+    "createGame": "ゲームを作成",
+    "saving": "保存中…",
+    "filter": "フィルター",
+    "applyFilters": "フィルターを適用",
+    "allSubjects": "すべての科目",
+    "allAges": "すべての年齢",
+    "allAgeGroups": "すべての年齢グループ",
+    "selectSubject": "科目を選択",
+    "minAgeGroup": "最小年齢グループ",
+    "maxAgeGroup": "最大年齢グループ",
+    "ages": "年齢",
+    "minutes": "分",
+    "points": "ポイント",
+    "pts": "pt",
+    "playLearnProtect": "遊ぶ、学ぶ、守る",
+    "exploreThePillars": "柱を探る"
+  },
+  "home": {
+    "tagline": "子供と青少年のための技術",
+    "title": "思いやりのあるデジタル安全性が組み込まれた楽しい学習冒険。",
+    "description": "EduGuardは、協力的なダッシュボード、楽しいミッション、安全な行動をブロックするだけでなく教える注意深い監視ツールを通じて、子供、親、教師を結びつけます。",
+    "whatsInside": "中身は何ですか？",
+    "feature1": "アバター、バッジ、連続記録付きの子供向けダッシュボード。",
+    "feature2": "画面時間、アラート、実用的なヒントの親ビュー。",
+    "feature3": "匿名化されたクラストレンド付きの教師インサイト。",
+    "feature4": "画面時間とポジティブなデジタル市民権のための組み込みアラート。",
+    "nowPiloting": "現在パイロット中",
+    "pilotDescription": "3都市の幼児センター · 2025年秋コホート募集開始",
+    "pillars": {
+      "play": {
+        "title": "遊ぶ",
+        "description": "明るい色と優しいフィードバックで設計された楽しいミニゲーム。"
+      },
+      "learn": {
+        "title": "学ぶ",
+        "description": "数学、科学、言語、コーディングにわたるカリキュラムに沿ったクエスト。"
+      },
+      "protect": {
+        "title": "保護",
+        "description": "健康的な画面時間、コンテンツフィルター、デジタル安全性のための思いやりのある促し。"
+      }
+    },
+    "featuredGames": "注目のゲーム",
+    "featuredGamesDescription": "好奇心旺盛な心のために教師が推奨。",
+    "seeAllGames": "すべてのゲームを見る",
+    "digitalSafety": {
+      "title": "デジタル安全性プレイブック",
+      "subtitle": "恐怖ではなく、安全な行動を教える。",
+      "description": "リアルタイムの促し、画面時間の休憩、優しい会話のプロンプトは、大人をループに保ちながら、子供がポジティブなデジタル習慣を構築するのに役立ちます。",
+      "feature1": "✓ フレンドリーなチャットガイダンスのためのAI支援言語スキャン。",
+      "feature2": "✓ パニックではなく、会話のきっかけ付きの親アラート。",
+      "feature3": "✓ 進歩を祝い、トレンドを強調する教師のヒント。"
+    },
+    "stats": {
+      "ageGroups": "年齢グループ",
+      "userRoles": "ユーザーロール",
+      "digitalSafety": "デジタル安全性"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "welcomeBack": "おかえりなさい",
+      "title": "サインインしてプレイを続ける",
+      "description": "親と教師は同じログインフォームを使用します。",
+      "email": "メール",
+      "password": "パスワード",
+      "signingIn": "サインイン中…",
+      "needAccount": "アカウントが必要ですか？",
+      "signUpLink": "サインアップ"
+    },
+    "signUp": {
+      "join": "EduGuardに参加",
+      "title": "アカウントを作成",
+      "description": "役割を設定して適切なダッシュボードのロックを解除します。",
+      "fullName": "フルネーム",
+      "email": "メール",
+      "password": "パスワード",
+      "signingUpAs": "として登録中",
+      "age": "年齢",
+      "ageDescription": "年齢に適したゲームとマッチングします。",
+      "parentEmail": "親または保護者のメール",
+      "parentEmailDescription": "大人が承認できるようにリンクコードを送信します。",
+      "creatingAccount": "アカウント作成中…",
+      "createAccount": "アカウントを作成",
+      "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+      "signInLink": "サインイン",
+      "checkInbox": "メールを確認してメールを確認し、プレイを始めましょう！",
+      "roles": {
+        "child": "子供プレイヤー",
+        "parent": "親 / 保護者",
+        "teacher": "教師"
+      }
+    }
+  },
+  "dashboard": {
+    "child": {
+      "greeting": "こんにちは {name}！👋",
+      "title": "{ageGroup}の村で素晴らしい活躍をしています。",
+      "description": "新しい宇宙ミッションのロックを解除するためにバッジを集め続けましょう。レベルを終えたらストレッチのための休憩を取ることを忘れないでください！",
+      "guardianCode": {
+        "title": "🔒 あなたの保護者コード",
+        "description": "この6桁のコードを親と共有して、アカウントをリンクできるようにします",
+        "generating": "コードを生成中...",
+        "generatingDescription": "保護者コードはまもなくここに表示されます。ページを更新してください。"
+      },
+      "totalPoints": "合計ポイント",
+      "badges": "バッジ",
+      "playStreak": "プレイ連続記録",
+      "days": "日",
+      "weeklyAdventure": "週間冒険",
+      "toNextMilestone": "次のマイルストーンまで",
+      "findNewGame": "新しいゲームを見つける",
+      "continuePlaying": "プレイを続ける",
+      "continuePlayingDescription": "中断したところから再開します。",
+      "noActiveSessions": "アクティブなセッションはありません – 新しいゲームを開始してください！",
+      "started": "開始",
+      "latestAchievements": "最新の実績",
+      "wayToGo": "よくできました！",
+      "noBadgesYet": "最初のバッジのロックを解除するためにミッションを完了してください。",
+      "recommended": "あなたへのおすすめ",
+      "recommendedDescription": "年齢グループに基づいています。",
+      "noRecommendations": "まだおすすめはありません。",
+      "profileSetup": "子供のプロフィールはまだセットアップ中です。"
+    },
+    "parent": {
+      "welcome": "ようこそ、{name}！",
+      "title": "あなたの家族のPlay、Learn & Protectハブ",
+      "description": "各子供のプレイタイムを確認し、勝利を祝い、健康的な会話を促すように設計された優しいアラートをフォローアップします。",
+      "addChildProfile": "子供のプロフィールを追加",
+      "screenTime": "画面時間（7日間）",
+      "total": "合計",
+      "minutes": "分",
+      "openAlerts": "開いているアラート",
+      "recentPlay": "最近のプレイ",
+      "finished": "完了",
+      "inProgress": "進行中",
+      "noSessions": "まだセッションがありません。",
+      "latestAlerts": "最新のアラート",
+      "new": "新規",
+      "noActiveAlerts": "アクティブなアラートはありません 🎉",
+      "viewAllAlerts": "すべてのアラートを表示",
+      "noChildrenLinked": "まだ子供がリンクされていません。保護者コードで招待してください。",
+      "age": "年齢",
+      "group": "グループ"
+    },
+    "teacher": {
+      "greeting": "こんにちは、{name}",
+      "title": "クラスのインサイトを一目で",
+      "description": "お気に入りのゲームを共有し、バッジを祝い、ウェルビーイングのトレンドに目を光らせます。",
+      "activeLearners": "アクティブな学習者",
+      "averagePoints": "平均ポイント",
+      "availableGames": "利用可能なゲーム",
+      "popularGames": "人気のゲーム",
+      "assignNewGame": "新しいゲームを割り当て",
+      "topExplorers": "トップエクスプローラー",
+      "noPlayers": "まだプレイヤーがいません。",
+      "ageGroup": "年齢グループ"
+    },
+    "admin": {
+      "tagline": "プラットフォームの健全性",
+      "title": "管理者コントロールセンター",
+      "description": "コンテンツを管理し、実績を確認し、カタログを埋めます。",
+      "gamesLive": "ライブゲーム",
+      "achievements": "実績",
+      "admins": "管理者",
+      "addNewGame": "新しいゲームを追加",
+      "existingGames": "既存のゲーム",
+      "url": "URL"
+    }
+  },
+  "games": {
+    "library": {
+      "title": "ゲームライブラリ",
+      "description": "科目または年齢範囲で選択してください。すべてのアクティビティは家族向けです。"
+    },
+    "detail": {
+      "invalidUrl": "無効なゲームURL。ゲームページからゲームを選択してください。",
+      "notFound": "ゲームが見つかりません。URLを確認して再試行してください。",
+      "signInToPlay": "サインインしてプレイし、進捗を追跡します。",
+      "onlyChildAccounts": "子供のアカウントのみがゲームセッションを開始できます。",
+      "ageRestriction": "⛔ 年齢制限",
+      "ageRestrictionDescription": "このゲームは{minAge}から{maxAge}歳向けです。",
+      "yourAgeGroup": "あなたの年齢グループ（{ageGroup}）はこの範囲内にありません。",
+      "chooseAppropriate": "年齢グループに適したゲームを選択してください。"
+    },
+    "noGamesMatch": "まだこれらのフィルターに一致するゲームはありません。",
+    "gamesWillAppear": "バックエンドがSupabaseに接続されると、ゲームがここに表示されます。"
+  },
+  "leaderboard": {
+    "title": "リーダーボード",
+    "description": "親切ポイントと着実な学習進捗を祝います。",
+    "noPlayers": "まだプレイヤーがいません。"
+  },
+  "achievements": {
+    "title": "私の実績",
+    "description": "これまでにロック解除したバッジ。",
+    "earned": "獲得",
+    "noBadges": "まだバッジがありません。最初のバッジを獲得するためにゲームを完了してください！"
+  },
+  "notifications": {
+    "center": "通知センター",
+    "title": "アラートと通知",
+    "description": "画面時間、サイバーいじめ検出、コンテンツ安全性通知を含むすべてのアラートを確認します。",
+    "childAlerts": "{name}のアラート",
+    "allStudentAlerts": "すべての学生アラート",
+    "aggregatedDescription": "すべての学生の集約アラートを表示（プライバシーのために匿名化）。",
+    "noChildrenLinked": "まだアカウントにリンクされている子供がいません。",
+    "active": "アクティブなアラート",
+    "resolved": "解決済みアラート",
+    "noAlerts": "現在アラートはありません。🎉",
+    "loading": "アラートを読み込み中...",
+    "resolvedLabel": "✓ 解決済み"
+  },
+  "creative": {
+    "tagline": "クリエイティブ学習スペース",
+    "title": "あなたのクリエイティブな遊び場",
+    "description": "描いたり、物語を書いたり、コードブロックで構築したりします。作品を保存して共有しましょう！",
+    "profileSetup": "子供のプロフィールはまだセットアップ中です。",
+    "tabs": {
+      "story": "ストーリービルダー",
+      "drawing": "描画キャンバス",
+      "code": "コードブロック"
+    },
+    "story": {
+      "title": "ストーリータイトル",
+      "content": "ここにストーリーを書いてください...",
+      "placeholder": "昔々..."
+    },
+    "drawing": {
+      "description": "下のキャンバスに描画"
+    },
+    "code": {
+      "description": "コードブロックで構築",
+      "blocks": {
+        "moveForward": "前進",
+        "turnLeft": "左に曲がる",
+        "turnRight": "右に曲がる",
+        "jump": "ジャンプ",
+        "collect": "収集",
+        "repeat": "繰り返す"
+      }
+    },
+    "savedCreations": "保存された作品",
+    "noCreations": "まだ保存された作品はありません。",
+    "save": "作品を保存",
+    "saving": "保存中...",
+    "saved": "保存されました！",
+    "error": "保存に失敗しました。もう一度お試しください。"
+  },
+  "parent": {
+    "childDetail": {
+      "totalScreenTime": "合計画面時間（7日間）",
+      "badges": "バッジ",
+      "activeAlerts": "アクティブなアラート",
+      "recentSessions": "最近のセッション",
+      "alerts": "アラート",
+      "noSessions": "まだセッションがありません。",
+      "noAlerts": "アラートはありません 🎉"
+    },
+    "addChild": {
+      "secureGuardianCode": "🔒 安全な保護者コード",
+      "description": "子供に6桁の保護者コードを尋ねてください。この安全な方法により、承認された親のみがアカウントをリンクできます。",
+      "guardianCode": "保護者コード",
+      "guardianCodeDescription": "子供が提供した6桁のコードを入力",
+      "relationship": "関係",
+      "child": "子供",
+      "son": "息子",
+      "daughter": "娘",
+      "ward": "被保護者",
+      "enterCode": "6桁のコードを入力",
+      "linkSuccess": "保護者コードを使用して子供を正常にリンクしました！",
+      "linkFailed": "子供のリンクに失敗しました。保護者コードを確認して再試行してください。"
+    }
+  },
+  "admin": {
+    "gameForm": {
+      "title": "タイトル",
+      "urlIdentifier": "URL識別子（例：galaxy-math-quest）",
+      "description": "説明",
+      "estimatedDuration": "推定時間（分）（例：10）",
+      "gameCreated": "ゲームが作成されました！リストに表示するには更新してください。"
+    }
+  },
+  "games": {
+    "mathQuest": {
+      "description": "コインを獲得するためにクイック数学クエストを解決します。",
+      "startQuest": "クエストを開始",
+      "question": "質問 #{number}",
+      "yourAnswer": "あなたの答え",
+      "submit": "送信",
+      "correctAnswers": "正しい答え：{count}",
+      "finished": "素晴らしい！あなたの答えが星に送られました。"
+    },
+    "wordGarden": {
+      "description": "各単語を意味と一致させます。",
+      "start": "ワードガーデンを開始",
+      "word": "単語 {current} / {total}",
+      "finished": "素敵！新しい単語が保存されました。"
+    }
+  },
+  "contentFilter": {
+    "title": "おっと！もう一度試してみましょう",
+    "description": "クリエイティブスペースに適していないいくつかの単語に気づきました。",
+    "message": "みんなを幸せで安全に感じさせる親切で友好的な言葉を使ってください！",
+    "tip": "💡 ヒント：代わりに「素晴らしい」「素敵」「すごい」などのポジティブな言葉を使ってみてください！",
+    "parentNotified": "親に通知され、スペースを安全で友好的に保つために支援します。",
+    "gotIt": "わかりました！親切な言葉を使います ✨"
+  },
+  "subjects": {
+    "PHYSICS": "物理学",
+    "CHEMISTRY": "化学",
+    "MATH": "数学",
+    "LANGUAGE": "言語",
+    "CODING": "コーディング",
+    "OTHER": "その他"
+  },
+  "ageGroups": {
+    "3_5": "3-5歳",
+    "6_8": "6-8歳",
+    "9_12": "9-12歳"
+  },
+  "alertTypes": {
+    "SCREEN_TIME": "画面時間",
+    "POTENTIAL_CYBERBULLYING": "潜在的なサイバーいじめ",
+    "INAPPROPRIATE_CONTENT": "不適切なコンテンツ"
+  },
+  "severity": {
+    "LOW": "低",
+    "MEDIUM": "中",
+    "HIGH": "高"
+  }
+}
+

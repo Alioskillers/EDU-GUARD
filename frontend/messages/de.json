@@ -1,0 +1,359 @@
+{
+  "common": {
+    "welcome": "Willkommen",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "signOut": "Abmelden",
+    "dashboard": "Dashboard",
+    "games": "Spiele",
+    "leaderboard": "Bestenliste",
+    "notifications": "Benachrichtigungen",
+    "myAchievements": "Meine Erfolge",
+    "creativeSpace": "Kreativer Raum",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "getStarted": "Loslegen",
+    "explorePillars": "Säulen erkunden",
+    "seeAll": "Alle anzeigen",
+    "play": "Spielen",
+    "playNow": "Jetzt spielen",
+    "resume": "Fortsetzen",
+    "viewDetails": "Details anzeigen",
+    "markResolved": "Als verstanden markieren",
+    "linkChild": "Kind-Konto verknüpfen",
+    "linking": "Verknüpfung läuft...",
+    "createGame": "Spiel erstellen",
+    "saving": "Speichern…",
+    "filter": "Filtern",
+    "applyFilters": "Filter anwenden",
+    "allSubjects": "Alle Fächer",
+    "allAges": "Alle Altersgruppen",
+    "allAgeGroups": "Alle Altersgruppen",
+    "selectSubject": "Fach auswählen",
+    "minAgeGroup": "Mindestaltersgruppe",
+    "maxAgeGroup": "Höchstaltersgruppe",
+    "ages": "Alter",
+    "minutes": "Min",
+    "points": "Punkte",
+    "pts": "Pkt",
+    "playLearnProtect": "Spielen, Lernen & Schützen",
+    "exploreThePillars": "Die Säulen erkunden"
+  },
+  "home": {
+    "tagline": "Technologie für Kindheit und Jugend",
+    "title": "Spielerische Lernabenteuer mit integrierter fürsorglicher digitaler Sicherheit.",
+    "description": "EduGuard bringt Kinder, Eltern und Lehrer durch kollaborative Dashboards, spielerische Missionen und achtsame Überwachungstools zusammen, die sicheres Verhalten lehren, anstatt es nur zu blockieren.",
+    "whatsInside": "Was ist drin?",
+    "feature1": "Kinderfreundliche Dashboards mit Avataren, Abzeichen und Serien.",
+    "feature2": "Elternansicht von Bildschirmzeit, Warnungen und umsetzbaren Tipps.",
+    "feature3": "Lehrer-Insights mit anonymisierten Klassentrends.",
+    "feature4": "Integrierte Warnungen für Bildschirmzeit und positive digitale Bürgerschaft.",
+    "nowPiloting": "Aktuell im Test",
+    "pilotDescription": "Frühkindliche Zentren in 3 Städten · Herbst 2025 Kohorte offen",
+    "pillars": {
+      "play": {
+        "title": "Spielen",
+        "description": "Fröhliche Minispiele mit hellen Farben und sanftem Feedback."
+      },
+      "learn": {
+        "title": "Lernen",
+        "description": "Lehrplanorientierte Quests in Mathematik, Naturwissenschaften, Sprache und Programmierung."
+      },
+      "protect": {
+        "title": "Schützen",
+        "description": "Gesunde Bildschirmzeit, Inhaltsfilter und fürsorgliche Hinweise für digitale Sicherheit."
+      }
+    },
+    "featuredGames": "Ausgewählte Spiele",
+    "featuredGamesDescription": "Von Lehrern für neugierige Köpfe empfohlen.",
+    "seeAllGames": "Alle Spiele anzeigen",
+    "digitalSafety": {
+      "title": "Digitales Sicherheitshandbuch",
+      "subtitle": "Sicheres Verhalten lehren, nicht Angst.",
+      "description": "Echtzeit-Hinweise, Bildschirmzeitpausen und sanfte Gesprächsanregungen helfen Kindern, positive digitale Gewohnheiten aufzubauen, während Erwachsene informiert bleiben.",
+      "feature1": "✓ KI-gestützte Sprachscans für freundliche Chat-Führung.",
+      "feature2": "✓ Elternwarnungen mit Gesprächsanregungen, nicht Panik.",
+      "feature3": "✓ Lehrertipps, die Fortschritte feiern und Trends hervorheben."
+    },
+    "stats": {
+      "ageGroups": "Altersgruppen",
+      "userRoles": "Benutzerrollen",
+      "digitalSafety": "Digitale Sicherheit"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "welcomeBack": "Willkommen zurück",
+      "title": "Melden Sie sich an, um weiterzuspielen",
+      "description": "Eltern und Lehrer verwenden dasselbe Anmeldeformular.",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "signingIn": "Anmeldung läuft…",
+      "needAccount": "Benötigen Sie ein Konto?",
+      "signUpLink": "Registrieren"
+    },
+    "signUp": {
+      "join": "EduGuard beitreten",
+      "title": "Ihr Konto erstellen",
+      "description": "Legen Sie Ihre Rolle fest, um das richtige Dashboard freizuschalten.",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "signingUpAs": "Ich registriere mich als",
+      "age": "Alter",
+      "ageDescription": "Wir passen Sie mit altersgerechten Spielen ab.",
+      "parentEmail": "E-Mail des Elternteils oder Erziehungsberechtigten",
+      "parentEmailDescription": "Wir senden einen Verknüpfungscode, damit Ihr Erwachsener zustimmen kann.",
+      "creatingAccount": "Konto wird erstellt…",
+      "createAccount": "Konto erstellen",
+      "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+      "signInLink": "Anmelden",
+      "checkInbox": "Überprüfen Sie Ihren Posteingang, um Ihre E-Mail zu bestätigen und mit dem Spielen zu beginnen!",
+      "roles": {
+        "child": "Kind-Spieler",
+        "parent": "Elternteil / Erziehungsberechtigter",
+        "teacher": "Lehrer"
+      }
+    }
+  },
+  "dashboard": {
+    "child": {
+      "greeting": "Hallo {name}! 👋",
+      "title": "Du machst dich großartig im {ageGroup} Dorf.",
+      "description": "Sammle weiter Abzeichen, um neue kosmische Missionen freizuschalten. Denk daran, eine Pause zum Dehnen zu machen, wenn du eine Stufe beendest!",
+      "guardianCode": {
+        "title": "🔒 Dein Betreuercode",
+        "description": "Teile diesen 6-stelligen Code mit deinem Elternteil, damit er dein Konto verknüpfen kann",
+        "generating": "Code wird generiert...",
+        "generatingDescription": "Dein Betreuercode erscheint hier bald. Bitte aktualisiere die Seite."
+      },
+      "totalPoints": "Gesamtpunkte",
+      "badges": "Abzeichen",
+      "playStreak": "Spielserie",
+      "days": "Tage",
+      "weeklyAdventure": "Wöchentliches Abenteuer",
+      "toNextMilestone": "zum nächsten Meilenstein",
+      "findNewGame": "Neues Spiel finden",
+      "continuePlaying": "Weiterspielen",
+      "continuePlayingDescription": "Mach dort weiter, wo du aufgehört hast.",
+      "noActiveSessions": "Keine aktiven Sitzungen – starte ein neues Spiel!",
+      "started": "Gestartet",
+      "latestAchievements": "Neueste Erfolge",
+      "wayToGo": "Weiter so!",
+      "noBadgesYet": "Schließe eine Mission ab, um dein erstes Abzeichen freizuschalten.",
+      "recommended": "Empfohlen für dich",
+      "recommendedDescription": "Basierend auf deiner Altersgruppe.",
+      "noRecommendations": "Noch keine Empfehlungen.",
+      "profileSetup": "Dein Kinderprofil wird noch eingerichtet."
+    },
+    "parent": {
+      "welcome": "Willkommen, {name}!",
+      "title": "Das Play, Learn & Protect Zentrum Ihrer Familie",
+      "description": "Überprüfen Sie die Spielzeit jedes Kindes, feiern Sie Siege und folgen Sie sanften Warnungen, die gesunde Gespräche anregen sollen.",
+      "addChildProfile": "Kinderprofil hinzufügen",
+      "screenTime": "Bildschirmzeit (7 Tage)",
+      "total": "Gesamt",
+      "minutes": "Minuten",
+      "openAlerts": "offene Warnungen",
+      "recentPlay": "Kürzliches Spielen",
+      "finished": "Beendet",
+      "inProgress": "In Bearbeitung",
+      "noSessions": "Noch keine Sitzungen.",
+      "latestAlerts": "Neueste Warnungen",
+      "new": "neu",
+      "noActiveAlerts": "Keine aktiven Warnungen 🎉",
+      "viewAllAlerts": "Alle Warnungen anzeigen",
+      "noChildrenLinked": "Noch keine Kinder verknüpft. Laden Sie sie mit einem Betreuercode ein.",
+      "age": "Alter",
+      "group": "Gruppe"
+    },
+    "teacher": {
+      "greeting": "Hallo, {name}",
+      "title": "Klassen-Insights auf einen Blick",
+      "description": "Teilen Sie Lieblingsspiele, feiern Sie Abzeichen und behalten Sie Wohlfahrtstrends im Auge.",
+      "activeLearners": "Aktive Lernende",
+      "averagePoints": "Durchschnittspunkte",
+      "availableGames": "Verfügbare Spiele",
+      "popularGames": "Beliebte Spiele",
+      "assignNewGame": "Neues Spiel zuweisen",
+      "topExplorers": "Top-Entdecker",
+      "noPlayers": "Noch keine Spieler.",
+      "ageGroup": "Altersgruppe"
+    },
+    "admin": {
+      "tagline": "Plattform-Gesundheit",
+      "title": "Admin-Kontrollzentrum",
+      "description": "Inhalte verwalten, Erfolge überprüfen und den Katalog füllen.",
+      "gamesLive": "Spiele live",
+      "achievements": "Erfolge",
+      "admins": "Administratoren",
+      "addNewGame": "Neues Spiel hinzufügen",
+      "existingGames": "Vorhandene Spiele",
+      "url": "URL"
+    }
+  },
+  "games": {
+    "library": {
+      "title": "Spielebibliothek",
+      "description": "Wählen Sie nach Fach oder Altersgruppe. Jede Aktivität ist familienfreundlich."
+    },
+    "detail": {
+      "invalidUrl": "Ungültige Spiel-URL. Bitte wählen Sie ein Spiel von der Spiele-Seite.",
+      "notFound": "Spiel nicht gefunden. Bitte überprüfen Sie die URL und versuchen Sie es erneut.",
+      "signInToPlay": "Melden Sie sich an, um zu spielen und Ihren Fortschritt zu verfolgen.",
+      "onlyChildAccounts": "Nur Kinderkonten können Spielsitzungen starten.",
+      "ageRestriction": "⛔ Altersbeschränkung",
+      "ageRestrictionDescription": "Dieses Spiel ist für Alter {minAge} bis {maxAge}.",
+      "yourAgeGroup": "Ihre Altersgruppe ({ageGroup}) liegt nicht in diesem Bereich.",
+      "chooseAppropriate": "Bitte wählen Sie ein Spiel, das für Ihre Altersgruppe geeignet ist."
+    },
+    "noGamesMatch": "Keine Spiele entsprechen diesen Filtern noch.",
+    "gamesWillAppear": "Spiele erscheinen hier, sobald das Backend mit Supabase verbunden ist."
+  },
+  "leaderboard": {
+    "title": "Bestenliste",
+    "description": "Feiern Sie Freundlichkeitspunkte und stetigen Lernfortschritt.",
+    "noPlayers": "Noch keine Spieler."
+  },
+  "achievements": {
+    "title": "Meine Erfolge",
+    "description": "Abzeichen, die Sie bisher freigeschaltet haben.",
+    "earned": "Erhalten",
+    "noBadges": "Noch keine Abzeichen. Schließen Sie ein Spiel ab, um Ihr erstes zu verdienen!"
+  },
+  "notifications": {
+    "center": "Benachrichtigungszentrum",
+    "title": "Warnungen und Benachrichtigungen",
+    "description": "Überprüfen Sie alle Warnungen, einschließlich Bildschirmzeit, Cybermobbing-Erkennung und Inhalts-Sicherheitsbenachrichtigungen.",
+    "childAlerts": "{name}s Warnungen",
+    "allStudentAlerts": "Alle Schülerwarnungen",
+    "aggregatedDescription": "Aggregierte Warnungen aller Schüler anzeigen (anonymisiert für Datenschutz).",
+    "noChildrenLinked": "Noch keine Kinder mit Ihrem Konto verknüpft.",
+    "active": "Aktive Warnungen",
+    "resolved": "Gelöste Warnungen",
+    "noAlerts": "Derzeit keine Warnungen. 🎉",
+    "loading": "Warnungen werden geladen...",
+    "resolvedLabel": "✓ Gelöst"
+  },
+  "creative": {
+    "tagline": "Kreativer Lernraum",
+    "title": "Ihr kreativer Spielplatz",
+    "description": "Zeichnen, Geschichten schreiben oder mit Code-Blöcken bauen. Speichern Sie Ihre Kreationen und teilen Sie sie!",
+    "profileSetup": "Ihr Kinderprofil wird noch eingerichtet.",
+    "tabs": {
+      "story": "Geschichtenersteller",
+      "drawing": "Zeichenleinwand",
+      "code": "Code-Blöcke"
+    },
+    "story": {
+      "title": "Geschichtstitel",
+      "content": "Schreiben Sie Ihre Geschichte hier...",
+      "placeholder": "Es war einmal..."
+    },
+    "drawing": {
+      "description": "Zeichnen Sie auf der Leinwand unten"
+    },
+    "code": {
+      "description": "Mit Code-Blöcken bauen",
+      "blocks": {
+        "moveForward": "Vorwärts bewegen",
+        "turnLeft": "Links abbiegen",
+        "turnRight": "Rechts abbiegen",
+        "jump": "Springen",
+        "collect": "Sammeln",
+        "repeat": "Wiederholen"
+      }
+    },
+    "savedCreations": "Gespeicherte Kreationen",
+    "noCreations": "Noch keine Kreationen gespeichert.",
+    "save": "Kreation speichern",
+    "saving": "Speichern...",
+    "saved": "Gespeichert!",
+    "error": "Speichern fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "parent": {
+    "childDetail": {
+      "totalScreenTime": "Gesamte Bildschirmzeit (7T)",
+      "badges": "Abzeichen",
+      "activeAlerts": "Aktive Warnungen",
+      "recentSessions": "Kürzliche Sitzungen",
+      "alerts": "Warnungen",
+      "noSessions": "Noch keine Sitzungen.",
+      "noAlerts": "Keine Warnungen 🎉"
+    },
+    "addChild": {
+      "secureGuardianCode": "🔒 Sicherer Betreuercode",
+      "description": "Bitten Sie Ihr Kind um seinen 6-stelligen Betreuercode. Diese sichere Methode stellt sicher, dass nur autorisierte Eltern Konten verknüpfen können.",
+      "guardianCode": "Betreuercode",
+      "guardianCodeDescription": "Geben Sie den 6-stelligen Code ein, den Ihr Kind bereitgestellt hat",
+      "relationship": "Beziehung",
+      "child": "Kind",
+      "son": "Sohn",
+      "daughter": "Tochter",
+      "ward": "Mündel",
+      "enterCode": "6-stelligen Code eingeben",
+      "linkSuccess": "Kind erfolgreich mit Betreuercode verknüpft!",
+      "linkFailed": "Verknüpfung des Kindes fehlgeschlagen. Bitte überprüfen Sie den Betreuercode und versuchen Sie es erneut."
+    }
+  },
+  "admin": {
+    "gameForm": {
+      "title": "Titel",
+      "urlIdentifier": "URL-Identifikator (z.B. galaxy-math-quest)",
+      "description": "Beschreibung",
+      "estimatedDuration": "Geschätzte Dauer in Minuten (z.B. 10)",
+      "gameCreated": "Spiel erstellt! Aktualisieren Sie, um es in der Liste zu sehen."
+    }
+  },
+  "games": {
+    "mathQuest": {
+      "description": "Lösen Sie schnelle Mathe-Quests, um Münzen zu verdienen.",
+      "startQuest": "Quest starten",
+      "question": "Frage #{number}",
+      "yourAnswer": "Ihre Antwort",
+      "submit": "Einreichen",
+      "correctAnswers": "Richtige Antworten: {count}",
+      "finished": "Brillant! Ihre Antworten wurden zu den Sternen geschickt."
+    },
+    "wordGarden": {
+      "description": "Ordnen Sie jedem Wort seine Bedeutung zu.",
+      "start": "Wortgarten starten",
+      "word": "Wort {current} von {total}",
+      "finished": "Liebenswert! Ihre neuen Wörter wurden gespeichert."
+    }
+  },
+  "contentFilter": {
+    "title": "Ups! Versuchen wir es noch einmal",
+    "description": "Wir haben einige Wörter bemerkt, die für unseren kreativen Raum nicht ganz richtig sind.",
+    "message": "Bitte verwenden Sie freundliche und nette Wörter, die alle glücklich und sicher fühlen lassen!",
+    "tip": "💡 Tipp: Versuchen Sie, positive Wörter wie \"großartig\", \"wunderbar\" oder \"fantastisch\" zu verwenden!",
+    "parentNotified": "Ihr Elternteil wurde benachrichtigt, um unseren Raum für alle sicher und freundlich zu halten.",
+    "gotIt": "Verstanden! Ich werde freundliche Wörter verwenden ✨"
+  },
+  "subjects": {
+    "PHYSICS": "Physik",
+    "CHEMISTRY": "Chemie",
+    "MATH": "Mathematik",
+    "LANGUAGE": "Sprache",
+    "CODING": "Programmierung",
+    "OTHER": "Andere"
+  },
+  "ageGroups": {
+    "3_5": "Alter 3-5",
+    "6_8": "Alter 6-8",
+    "9_12": "Alter 9-12"
+  },
+  "alertTypes": {
+    "SCREEN_TIME": "Bildschirmzeit",
+    "POTENTIAL_CYBERBULLYING": "Mögliches Cybermobbing",
+    "INAPPROPRIATE_CONTENT": "Unangemessener Inhalt"
+  },
+  "severity": {
+    "LOW": "NIEDRIG",
+    "MEDIUM": "MITTEL",
+    "HIGH": "HOCH"
+  }
+}
+
