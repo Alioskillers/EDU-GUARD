@@ -17,7 +17,7 @@ interface Alert {
 
 interface Props {
   childId: string | null;
-  role?: 'PARENT' | 'TEACHER' | 'ADMIN';
+  role?: 'CHILD' | 'PARENT' | 'TEACHER' | 'ADMIN';
 }
 
 export function NotificationsList({ childId, role }: Props) {
